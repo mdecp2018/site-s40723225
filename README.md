@@ -2,4 +2,4 @@
 
 網誌:https://mdecp2018.github.io/site-s40723225/blog
 
-簡報:https://mdecp2018.github.io/site-s40723225/reveal
+投影片:https://mdecp2018.github.io/site-s40723225/reveal
