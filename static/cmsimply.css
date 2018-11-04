@@ -2,7 +2,7 @@
   position: relative;
 }
 header{
-  background: #ccc;
+  background-image:url();
   padding: 20px;
 }
 confmenu
@@ -201,6 +201,9 @@ background-color: white;
 width: 195px;
 }
 body {
+  background-image:url(http://www.wallpsite.com/wp-content/uploads/2018/09/hani.jpg);
   margin-bottom: 120px;
+  background-size:100%
+
 }
 
