@@ -24,16 +24,37 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181105003119.1" a="E"><vh>導入影片</vh>
-<v t="leo.20181105003131.1"><vh>影片內容</vh></v>
+<v t="leo.20181015202842.1" a="E"><vh>投影片01</vh>
+<v t="leo.20181015202842.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181105003228.1" a="E"><vh>導入影片</vh>
-<v t="leo.20181105003228.2"><vh>影片內容</vh></v>
+<v t="leo.20181101131423.1" a="E"><vh>W1</vh>
+<v t="leo.20181101131423.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181101131416.1" a="E"><vh>W2</vh>
+<v t="leo.20181101131416.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181101131413.1" a="E"><vh>W3</vh>
+<v t="leo.20181101131413.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181101131355.1" a="E"><vh>W4</vh>
+<v t="leo.20181101131355.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181101131338.1" a="E"><vh>W5</vh>
+<v t="leo.20181101131338.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181101134003.1" a="E"><vh>W6</vh>
+<v t="leo.20181101134003.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181101134005.1" a="E"><vh>W7</vh>
+<v t="leo.20181101134005.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20181101134010.1" a="E"><vh>W8</vh>
+<v t="leo.20181101134010.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -130,9 +151,15 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 40723225 個人網際簡報
+<t tx="leo.20180827201621.10">## s40723210倉儲簡報
 
 ### 虎科大機械設計工程系
+
+* [倉儲](https://github.com/mdecp2018/site-s40723210)
+
+* [網站](https://mdecp2018.github.io/site-s40723210/content/)
+
+* [網誌](https://mdecp2018.github.io/site-s40723210/blog)
 
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
@@ -332,7 +359,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181105003119.1">&lt;section data-markdown&gt;
+<t tx="leo.20181015202842.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -341,12 +368,15 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181105003131.1">## week1
+<t tx="leo.20181015202842.2">### MCAD 1b 4W 網際簡報
 
-### 建立個人github網站
+* [CMSimfly](https://github.com/chiamingyen/cmsimfly) 操作
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ax2ZuPm3YXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
-<t tx="leo.20181105003228.1">&lt;section data-markdown&gt;
+* [Onshape](https://www.onshape.com/) 操作
+
+
+</t>
+<t tx="leo.20181101131338.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -355,10 +385,124 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181105003228.2">## week3
+<t tx="leo.20181101131338.2">#  Week5
 
-### git 基本練習
+心得:第五周又要開始學新的東西了，現在要學python指令了，一個未完又要開始學另一個了，實在是有點太多了，因為我完全就是沒有底子的人，所以要把指令都用熟練，是要花很多時間的，我只能盡力而為了。
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/158Ir6Mni60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+
+
+</t>
+<t tx="leo.20181101131355.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181101131355.2">#  Week4
+
+心得:第四周是要開始學習如何更改reveal投影片，跟改CMSimfly完全不相同，是要以 Leo Editor來更改內容，一開始我完全的不懂該怎麼使用，我就一直看老師的操作影片，慢慢的我就知道該如何使用了。
+
+
+
+</t>
+<t tx="leo.20181101131413.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181101131413.2">#  Week3
+
+中秋節放假，不用上課
+
+心得:我自己有操作更改網站標題，基本上都是一樣的操作流程。
+
+
+
+</t>
+<t tx="leo.20181101131416.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181101131416.2">#  Week2
+
+心得:第二週學習如何管理期中作業倉儲的網站內容以及投影片內容，每週必須放上進度，要時常去管理自己的CMSimfly網站，做法是平常上課教的，可以一步一步來完成。
+
+
+
+</t>
+<t tx="leo.20181101131423.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181101131423.2">#  Week1
+
+心得:第一週開始接觸github有點不習慣，因為我完全沒有碰過，老師說的我完全的聽不懂，但是之後其實只要看教學影片慢慢的就會了，所以我覺得應該是撐得住。
+
+
+
+</t>
+<t tx="leo.20181101134003.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181101134003.2">#  Week6
+
+心得:第六周開始強調要升級，最新的CMSimfly倉儲中的flaskapp.py，因為這幾周來同學碰到了許多的bug，所以老師有更新很多處理bug的東西，我們就要去更新才不會出現這一些bug。
+
+
+
+</t>
+<t tx="leo.20181101134005.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181101134005.2">#  Week7
+
+心得:由於github在這禮拜突然故障，所以老師找出其他方法解決並探討，剛開始會發現github沒辦法登入，聽到老師說才知道是壞掉了，如果github到之後都不能使用的話，可能以後都要讓我們使用Fossli SCM 。
+
+</t>
+<t tx="leo.20181101134010.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181101134010.2">#  Week8
+
+心得:第八周開始使用gitlab，這樣可以同時push兩個不同的倉儲，就可以避免一個倉儲壞掉了就沒有了，只是要同步實在是很困難，我現在也還沒辦法同步，看來要一段時間才能學會git remote add了。
+
+
+
+</t>
 </tnodes>
 </leo_file>
